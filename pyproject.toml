@@ -1,0 +1,7 @@
+[project]
+name = "sector-pulse"
+version = "0.1.0"
+description = "Automated weekly sector sentiment playbook for US equity rotation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
