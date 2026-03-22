@@ -57,6 +57,9 @@ uv sync
 # Copy & fill API keys in .env
 cp .env.example .env 
 
+# run
+uv run src/main/python/main.py
+
 ```
 ## Disclaimer
 
