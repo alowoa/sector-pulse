@@ -40,8 +40,10 @@ sector-pulse/
 ├── models/
 │   └── finbert_finetuned/ # local finetuned FinBERT model
 ├── src/
-│   ├── ingestion/         # RSS + NewsAPI ingestion
-│   ├── mapping/           # mapping text → sector
+│   ├── main/
+│   │   ├── ingestion/     # RSS + NewsAPI ingestion
+│   │   ├── mapping/       # mapping text → sector
+│   └── test/
 ├── notebooks/             # exploration 
 └── README.md
 ```
