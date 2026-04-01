@@ -1,0 +1,5 @@
+outs:
+- md5: fcd0039bf070fde380e2fb07bc4c5486
+  size: 5691
+  hash: md5
+  path: C02_mapping_secteur_ETF_top5_holdings.csv

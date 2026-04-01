@@ -1,0 +1,5 @@
+outs:
+- md5: a2eda38bd00f9eff1a967c33ab66fd4b
+  size: 27491
+  hash: md5
+  path: sector_keywords.csv

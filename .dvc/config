@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/alowoa/sector-pulse.dvc
+    user = alowoa
+    auth = basic

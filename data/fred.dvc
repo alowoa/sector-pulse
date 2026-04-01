@@ -1,0 +1,6 @@
+outs:
+- md5: 83b8a9f4bb0f533f28110f2f48f47c12.dir
+  size: 5472
+  nfiles: 5
+  hash: md5
+  path: fred

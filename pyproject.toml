@@ -5,7 +5,11 @@ description = "Automated weekly sector sentiment playbook for US equity rotation
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dagshub>=0.6.9",
     "dotenv>=0.9.9",
+    "dvc>=3.67.1",
+    "dvc-gdrive>=3.0.1",
+    "fastapi[standard]>=0.135.2",
     "fredapi>=0.5.2",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
