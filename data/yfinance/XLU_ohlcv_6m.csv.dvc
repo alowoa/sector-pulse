@@ -1,0 +1,5 @@
+outs:
+- md5: bd91d2915ab62b70b231cc1e34a5a1c7
+  size: 6819
+  hash: md5
+  path: XLU_ohlcv_6m.csv

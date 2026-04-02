@@ -2,7 +2,7 @@
 Testing headline ingestion from RSS feeds, NewsAPI.org, and Finnhub.
 
 Run:
-  uv run python src/test/python/test_headline_ingest.py
+  uv run python server/test/python/test_headline_ingest.py
 
 Output is written to both the terminal and test_headline_ingest.out.txt (same directory)
 so results can be reviewed without re-running the script.

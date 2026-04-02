@@ -1,0 +1,5 @@
+outs:
+- md5: 8b088089c09acbbd1216aa1c4289b17b
+  size: 6833
+  hash: md5
+  path: XLRE_ohlcv_6m.csv

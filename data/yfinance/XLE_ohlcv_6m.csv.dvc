@@ -1,0 +1,5 @@
+outs:
+- md5: 2735473cf6417a90566addf526e1bf3d
+  size: 6809
+  hash: md5
+  path: XLE_ohlcv_6m.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: c8e502b4af2e5079a14ada4c03c90e1e
+  size: 76734
+  hash: md5
+  path: ALL_SPDR_ohlcv_6m.csv

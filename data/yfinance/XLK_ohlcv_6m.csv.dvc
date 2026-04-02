@@ -1,0 +1,5 @@
+outs:
+- md5: 1757a1de40d9c86fe991e4da6a6d0b10
+  size: 7294
+  hash: md5
+  path: XLK_ohlcv_6m.csv

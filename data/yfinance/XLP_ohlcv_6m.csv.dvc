@@ -1,0 +1,5 @@
+outs:
+- md5: 44e16c90f5b39178c18eaeff12738ddf
+  size: 6801
+  hash: md5
+  path: XLP_ohlcv_6m.csv
