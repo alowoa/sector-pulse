@@ -1,0 +1,5 @@
+outs:
+- md5: f26898f8aa9acada631700b8125b84f2
+  size: 335
+  hash: md5
+  path: model-study.ipynb

@@ -1,0 +1,5 @@
+outs:
+- md5: e098365e7f7d89ba59c6a30ca2a32d9b
+  size: 5171
+  hash: md5
+  path: validate-pytorch-install.ipynb

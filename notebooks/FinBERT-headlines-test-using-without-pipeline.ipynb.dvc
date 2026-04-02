@@ -1,0 +1,5 @@
+outs:
+- md5: 710d212cb13a6594c06a502bf4639baa
+  size: 7831
+  hash: md5
+  path: FinBERT-headlines-test-using-without-pipeline.ipynb
