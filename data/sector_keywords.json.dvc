@@ -1,5 +1,5 @@
 outs:
-- md5: 424e68827968578c8e63c4ba6de4afd7
-  size: 18696
+- md5: e17f3f78882f17b96f02bf9ca96a4ffd
+  size: 22086
   hash: md5
   path: sector_keywords.json
